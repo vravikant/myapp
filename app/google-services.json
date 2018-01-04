@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123586156381",
+    "firebase_url": "https://student-d5947.firebaseio.com",
+    "project_id": "student-d5947",
+    "storage_bucket": "student-d5947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123586156381:android:7071010933f2a973",
+        "android_client_info": {
+          "package_name": "com.android.newlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123586156381-j4b9858v6dcs4odmguur1f3ia687vfh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAl4G2SSvsVUO8l02RSyNHx9NlcyGSJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
